@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c4306dc2862364987964c62d05a589b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dicePrefab: {fileID: 6857713631413972878, guid: 2e964724744ce461aba11336c02d3537,
+      type: 3}
+  - diceSpawnPoint1: {instanceID: 0}
+  - diceSpawnPoint2: {instanceID: 0}
+  - diceText: {instanceID: 0}
+  - resultText: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
